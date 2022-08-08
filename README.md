@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0mini)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号
+![jmc二维码0](https://user-images.githubusercontent.com/31945727/183381085-6a418141-1825-4607-a4c6-026d4353edba.jpg)
+
+### 知识星球
+
+![image](https://user-images.githubusercontent.com/31945727/183381245-bbf25503-d3a4-492a-b2ce-248dbc339545.png)
+
+
