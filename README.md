@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0mini)](https://github.com/G0mini/)
 
 ### Personal introduction
-#### JMC/Tide/Kpl
+#### <font color=red>Team:JMC/Tide/Kpl</font>
 #### 混迹于各种红蓝对抗中。
 
 
