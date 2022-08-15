@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 ```diff
 - Team:JMC/Tide/Kpl
 + 混迹于各种红蓝对抗中。
+! 学不会代码的脚本小子。
+```
+#### CVE/CNVD
+```diff
+- CVE-2022-2726
++ CNVD-2019-27739 CNVD-2021-30549
+
 ```
 
 
