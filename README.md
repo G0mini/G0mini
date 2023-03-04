@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Personal introduction
 ```diff
 - Team:JMC团队创始人
-      :/Tide/Kpl/渊龙成员
+       - /Tide/Kpl/渊龙成员
 + 混迹于各种红蓝对抗中。
 ! 学不会代码的脚本小子。
 ```
