@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ### Personal introduction
 ```diff
-- Team:JMC团队创始人
-       - /Tide/Kpl/渊龙成员
+- Team:JMC团队创始人/Tide/Kpl/渊龙sec成员
 + 混迹于各种红蓝对抗中。
 ! 学不会代码的脚本小子。
 ```
@@ -27,13 +26,16 @@ Here are some ideas to get you started:
 ```diff
 - CVE-2022-2726
 + CNVD-2019-27739 CNVD-2021-30549 CNVD-2023-07885
-
 ```
 
 
 
 
 ### 公众号
+```
+只为实战的实战派。
+如果想要联系作者,提出您宝贵的思路,可以关注公众号添加作者好友。
+```
 ![jmc二维码0](https://user-images.githubusercontent.com/31945727/183381085-6a418141-1825-4607-a4c6-026d4353edba.jpg)
 
 ### 知识星球
